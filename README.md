@@ -6,7 +6,7 @@ Challange Description:
 There's no stopping this crazy goose.
 +2 PNG File
 ```
-Challange gives us two different .png files. Both have strange looked strip at the bottom. So using ```stegsolve``` to combine them. And it gives the flag on the strip.
+Challange gives us two different .png files. Both have strange looked strip at the bottom. So using `stegsolve` to combine them. And it gives the flag on the strip.
 
 ![Duck](./solved.bmp)
 
