@@ -37,7 +37,7 @@ There is two options. The second one gives the flag with changing the order and 
 ```
 SCNTGET0SKV3CTNESYS2ISL7AF4I0SC0COM5ORS31RR3AYN1
 ```
-And in the first option change the given letter to uppercase and it you write multiple character it change the order. Need to find how it change the order. To find it gave it 46 char lenght of string that has not same char in it. 
+And in the first option it change the given letter to uppercase and if you write multiple characters it change the order. Need to find how it change the order. To find it gave it 46 char lenght of string that has not same char in it. 
 ```
 Input:
 ABCDEFTGHIJKLMNOPRSTVYZXWQÖÇÜĞŞİ1234567890€₺½¾
