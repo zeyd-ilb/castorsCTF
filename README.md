@@ -73,7 +73,7 @@ Need to decode this but to decode it we need more. So return to the image and ``
 ```
 https://go.aws/2X1R6H7
 ```
-In this there is a chat between two people. One is texting and other only using emojies. Guessed some of the words that the second person said eg. ```hi! ``` and ```you?```. By using these letters found all alphabet in emojies. 
+In this link there is a chat between two people. One is texting and other only using emojies. Guessed some of the words that the second person said eg. ```hi! ``` and ```you?```. By using these letters found all alphabet in emojies. 
 ```
 ♉: A
 ♌: B
